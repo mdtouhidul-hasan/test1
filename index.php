@@ -11,7 +11,7 @@ echo "\n";
 
 // ternary operator
 
-$num1 = 88;
+$num1 = 866;
 $num2 = 101;
 $num3 = 203;
 
@@ -30,3 +30,8 @@ echo "\n";
 
 $number = ($num1 > $num2 && $num1 > $num3) ? "large number $num1" : (($num2 > $num1 && $num2 > $num3) ? "large number $num2" : (($num3 > $num2 && $num3 > $num1) ? "large number $num3" : "equal"));
 echo $number;
+
+// live class 21 january
+
+
+
